@@ -1,4 +1,5 @@
-com/beavertontoyota/RequestHandler.class
-com/beavertontoyota/GetWidgetHandler.class
-com/beavertontoyota/models/Widgets.class
-com/beavertontoyota/models/WidgetsRequest.class
+com/beavertontoyota/data/Coverages.class
+com/beavertontoyota/interfaces/RequestHandler.class
+com/beavertontoyota/GetInventory.class
+com/beavertontoyota/models/InventoryRequest.class
+com/beavertontoyota/models/Inventory.class

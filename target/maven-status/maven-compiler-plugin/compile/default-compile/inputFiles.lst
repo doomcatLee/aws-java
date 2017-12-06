@@ -1,4 +1,5 @@
-/Users/alexlee/Desktop/aws-java/src/main/java/com/beavertontoyota/models/Widgets.java
-/Users/alexlee/Desktop/aws-java/src/main/java/com/beavertontoyota/RequestHandler.java
-/Users/alexlee/Desktop/aws-java/src/main/java/com/beavertontoyota/models/WidgetsRequest.java
-/Users/alexlee/Desktop/aws-java/src/main/java/com/beavertontoyota/GetWidgetHandler.java
+/Users/alexlee/Desktop/aws-java/src/main/java/com/beavertontoyota/models/Inventory.java
+/Users/alexlee/Desktop/aws-java/src/main/java/com/beavertontoyota/models/InventoryRequest.java
+/Users/alexlee/Desktop/aws-java/src/main/java/com/beavertontoyota/interfaces/RequestHandler.java
+/Users/alexlee/Desktop/aws-java/src/main/java/com/beavertontoyota/data/Coverages.java
+/Users/alexlee/Desktop/aws-java/src/main/java/com/beavertontoyota/GetInventory.java
