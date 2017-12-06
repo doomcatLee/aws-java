@@ -1,4 +1,4 @@
-package models;
+package com.beavertontoyota.models;
 
 public class WidgetsRequest {
     private String id;

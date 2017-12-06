@@ -1,5 +1,4 @@
-models/MainController$GetWidgetHandler.class
-models/WidgetsRequest.class
-models/MainController.class
-models/Widgets.class
-RequestHandler.class
+com/beavertontoyota/RequestHandler.class
+com/beavertontoyota/GetWidgetHandler.class
+com/beavertontoyota/models/Widgets.class
+com/beavertontoyota/models/WidgetsRequest.class

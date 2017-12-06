@@ -1,3 +1,5 @@
+package com.beavertontoyota;
+
 import javax.naming.Context;
 
 public interface RequestHandler<I, O> {
